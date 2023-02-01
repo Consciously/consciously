@@ -41,12 +41,14 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/stefan-ihle-008830173/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/consciously/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:stefanihle@gmx.net">
-    <img src="https://www.svgrepo.com/show/63895/mail-send.svg" width="52" height="40" alt="send mail logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Internet-mail.svg" width="52" height="40" alt="send mail logo"  />
   </a>
 </div>
+
+
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=consciously&theme=chartreuse-dark&show_icons=true&count_private=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consciously&layout=compact)](https://github.com/consciously/github-readme-stats)
