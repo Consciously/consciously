@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consciously&layout=compact)](https://github.com/consciously/github-readme-stats)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=consciously&theme=highcontrast&show_icons=true&count_private=true)
 </div>
 
 ###
