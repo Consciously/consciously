@@ -43,12 +43,14 @@
   <a href="https://www.linkedin.com/in/stefan-ihle-008830173/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:stefanihle@gmx.net">
+  <a href="mailto:stefanihle@gmx.net" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Internet-mail.svg" width="52" height="40" alt="send mail logo"  />
   </a>
 </div>
 
-
+<br />
+<hr />
+<br />
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=consciously&theme=chartreuse-dark&show_icons=true&count_private=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consciously&layout=compact)](https://github.com/consciously/github-readme-stats)
