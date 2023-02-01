@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cons/Cons/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
