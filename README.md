@@ -43,6 +43,9 @@
   <a href="https://www.linkedin.com/in/stefan-ihle-008830173/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="mailto:stefanihle@gmx.net">
+    <img src="https://www.svgrepo.com/show/63895/mail-send.svg" width="52" height="40" alt="send mail logo"  />
+  </a>
 </div>
 
 ###
