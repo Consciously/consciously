@@ -41,7 +41,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/stefan-ihle-008830173/" target="_blank">
-    <img src="https://raw.githubusercontent.com/consciously/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:stefanihle@gmx.net">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Internet-mail.svg" width="52" height="40" alt="send mail logo"  />
