@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://prismalens.vercel.app/header/logo-dark.svg" height="40" width="52" alt="prisma logo"  />" height="40" width="52" alt="figma logo"  />
+  <img src="https://prismalens.vercel.app/header/logo-dark.svg" height="40" width="52" alt="prisma logo"  />
 </div>
 
 ###
