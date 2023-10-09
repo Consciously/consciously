@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js 13, TypeScript, GraphQL (code first approach), Tailwindcss<br>🎯 Goals: Stay up to date with the latest web technology trends and be a lifetime learner<br>🎲 Fun fact is that I don't have a fun fact</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 My tech-stack is: Next.js, Typescript, Tailwindcss, Sanity, and other stuff<br>🎯 Goals: Stay up to date with the latest web technology trends and be a lifetime learner<br>🎲 Fun fact is that I don't have a fun fact</p>
 
 ###
 
